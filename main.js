@@ -1,3 +1,4 @@
+import "./style.scss";
 // Sélectionnez les éléments du DOM
 const display = document.getElementById("calDisplay");
 const numButtons = document.querySelectorAll(".numButton");
